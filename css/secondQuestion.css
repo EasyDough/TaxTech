@@ -8,3 +8,8 @@ body {
    margin-bottom: 169px;
    margin-left: 32px;
 }
+
+.selected {
+   background-color: #3498db;
+   color: #fff;
+}
